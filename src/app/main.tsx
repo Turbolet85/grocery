@@ -1,5 +1,6 @@
 import '../features/styles/variables.css';
 import '../features/styles/global.css';
+import 'react-toastify/dist/ReactToastify.css';
 
 import React from 'react';
 import ReactDOM from 'react-dom/client';

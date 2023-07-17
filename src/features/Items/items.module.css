@@ -1,0 +1,5 @@
+.items {
+	display: grid;
+	row-gap: 1rem;
+	margin-top: 2rem;
+}

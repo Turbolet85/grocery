@@ -1,0 +1,19 @@
+form h4 {
+	margin-bottom: 1.5rem;
+	text-align: center;
+}
+
+.formControl {
+	display: grid;
+	grid-template-columns: 1fr 100px;
+}
+
+.formInput {
+	border-radius: var(--borderRadius) 0 0 var(--borderRadius);
+	outline-color: var(--grey-300);
+
+}
+
+.formControl .btn {
+	border-radius: 0 var(--borderRadius) var(--borderRadius) 0;
+}
